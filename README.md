@@ -1,1 +1,1 @@
-React + Typescript + Vite + Vitest + Playwright
+React + Typescript + Vite + Vitest + Playwright + Tailwind
